@@ -1,2 +1,2 @@
-# demo_first
+# demo_repo
 My first demo repository
